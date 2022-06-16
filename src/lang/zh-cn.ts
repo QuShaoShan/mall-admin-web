@@ -12,7 +12,7 @@ export default {
         login:'登 录',
         code:'请输入验证码',
         copyright:'个人学习分数线管理',
-        icp:'ICP备案号:'
+        icp:'ICP备案号:辽ICP备2022005866号'
     },
     navbar:{
         dashboard: '首页',

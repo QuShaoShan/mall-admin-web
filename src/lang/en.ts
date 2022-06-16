@@ -11,8 +11,8 @@ export default {
         password: 'Password',
         login: 'Login',
         code: 'Verification Code',
-        copyright: 'Copyright © 2021 - 2022 youlai.tech All Rights Reserved. ',
-        icp: ''
+        copyright: 'Copyright © 2021 - 2022 microwx.hssline All Rights Reserved. ',
+        icp: '辽ICP备2022005866号'
     },
     // 导航栏国际化
     navbar:{
